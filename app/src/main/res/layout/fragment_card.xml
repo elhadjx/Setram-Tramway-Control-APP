@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cardFragment">
+
+    <TextView
+        android:id="@+id/tv_cardStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ready_to_scan"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.195" />
+
+    <TextView
+        android:id="@+id/tv_cardData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:lineSpacingExtra="8sp"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_cardStatus"
+        app:layout_constraintVertical_bias="0.159" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_Scan"
+        android:layout_width="270dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="136dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:gravity="center"
+        android:text="@string/scan"
+        android:textColor="@color/colorSecondary"
+        android:textSize="20sp"
+        android:theme="@style/Theme.MaterialComponents"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_cardData"
+        app:layout_constraintVertical_bias="0.931"
+        tools:visibility="invisible" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_blacklist"
+        android:layout_width="270dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:gravity="center"
+        android:text="@string/blacklist"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:theme="@style/Theme.MaterialComponents"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_cardData"
+        app:layout_constraintVertical_bias="0.733" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_whitelist"
+        android:layout_width="270dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:gravity="center"
+        android:text="@string/whitelist"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:visibility="gone"
+        android:theme="@style/Theme.MaterialComponents"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_cardData"
+        app:layout_constraintVertical_bias="0.733" />
+
+    <ImageView
+        android:id="@+id/nfc_iv"
+        android:layout_width="0dp"
+        android:layout_height="300dp"
+        android:src="@mipmap/nfc"
+        app:layout_constraintBottom_toTopOf="@+id/btn_Scan"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_cardStatus"
+        android:contentDescription="@string/nfc_to_scan" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

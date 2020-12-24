@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">TramwayTransport</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Invalid Username</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_back">"Welcome Back "</string>
+    <string name="sign_in_to_continue">Sign In To Continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="openMenuDrawer">Open Menu Drawer</string>
+    <string name="closeMenuDrawer">Close Menu Drawer</string>
+    <string name="fullname">"Full Name "</string>
+    <string name="add_user">"Add "</string>
+    <string name="update_user">"Update "</string>
+    <string name="blacklist">Blacklist</string>
+    <string name="card_number">Card Number</string>
+    <string name="add_card">"Add "</string>
+    <string name="update_card">"Update "</string>
+    <string name="vehicle_code">"Vehicle Code "</string>
+    <string name="add_vehicle">"Add "</string>
+    <string name="update_vehicle">"Update "</string>
+    <string name="stop_name">Stop Name</string>
+    <string name="add_stop">"Add "</string>
+    <string name="update_stop">"Update "</string>
+    <string name="subscription_name">Subscription Name</string>
+    <string name="subscription_delay_days">Subscription Duration (Days)</string>
+    <string name="add_subscription">"Add "</string>
+    <string name="update_subscription">"Update "</string>
+    <string name="swipe_from_left_to_right_nto_open_menu" translatable="false">Swipe From Left To Right\nTo Open Menu</string>
+    <string name="ready_to_scan">Ready To Scan</string>
+    <string name="scan">Scan</string>
+    <string name="whitelist">Whitelist</string>
+    <string name="nfc_to_scan" translatable="false">NFC To Scan</string>
+    <string name="vehicle">"Vehicle: "</string>
+    <string name="stop">"Stop: "</string>
+    <string name="destination">Destination:</string>
+    <string name="update_location">"Update "</string>
+    <string name="id">"ID: "</string>
+    <string name="usernametwodots">"Username:  "</string>
+    <string name="import_db">Import DB</string>
+    <string name="export_db">Export DB</string>
+    <string name="logout">Logout</string>
+    <string name="dateformat" translatable="false">DD-MM-YYYY</string>
+    <string name="status" translatable="false">Status</string>
+    <string name="delay">Delay</string>
+    <string name="cards_database">Cards Database</string>
+    <string name="agents_database">Agents Database</string>
+    <string name="vehicles_database">Vehicles Database</string>
+    <string name="stops_database">Stops Database</string>
+    <string name="subscription_database">Subscriptions Database</string>
+    <string name="logs_database">Logs Database</string>
+    <string name="added_success">Added Successfully!</string>
+    <string name="something_went_wrong">Something Went Wrong!</string>
+    <string name="already_in_db">" Already in DB!"</string>
+    <string name="vehicle_code_empty">Vehicle Code Empty!</string>
+    <string name="stop_name_empty">Stop Name Empty!</string>
+    <string name="subname_or_delay_empty">Something is Missing!</string>
+    <string name="card_updated">Card Updated!</string>
+    <string name="agent_updated">Agent Updated!</string>
+    <string name="vehicle_updated">Vehicle Updated!</string>
+    <string name="stop_updated">Stop Updated!</string>
+    <string name="sub_updated">Subscription Updated!</string>
+    <string name="card_two_dots">"Card: "</string>
+    <string name="expiry_date_two_dots">"Expiry Date: "</string>
+    <string name="sub_two_dots">"Subscription: "</string>
+    <string name="status_two_dots">"Status: "</string>
+    <string name="id_two_dots">"ID: "</string>
+    <string name="name_two_dots">"Name: "</string>
+    <string name="days">" Days"</string>
+    <string name="blacklisted_success">" Blacklisted Successfully!"</string>
+    <string name="already_in_blacklist_id_two_dots">" Already Blacklisted. id: "</string>
+    <string name="card_not_in_db">Card Not Found in Database!</string>
+    <string name="cn_empty_plz_write_cn">Card Number Empty!</string>
+    <string name="whitelisted_success">" Whitelisted Successfully!"</string>
+    <string name="already_in_whitelist_id_two_dots">"Already Whitelisted. id: "</string>
+    <string name="card_number_empty">Card Number Empty!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="card_id_two_dots">"Card ID: "</string>
+    <string name="no_card_data_detected">No Card Data Detected!</string>
+    <string name="location_updated">Location Updated!</string>
+    <string name="welcome_back_admin">Welcome back Admin</string>
+    <string name="wrong_password_for">"Wrong Password for "</string>
+    <string name="wrong_info">Wrong info</string>
+    <string name="login_first">Login First!</string>
+    <string name="unexpected_value_two_dots" translatable="false">"Unexpected value: "</string>
+    <string name="db_exported">DB Exported!</string>
+    <string name="db_imported">Database Imported!</string>
+    <string name="db_not_imported">Database Not Imported!</string>
+    <string name="username_two_dots">"Username: "</string>
+    <string name="password_two_dots">"Password: "</string>
+    <string name="code_two_dots">"Code: "</string>
+    <string name="delay_two_dots">"Delay: "</string>
+    <string name="card_number_two_dots">"Card Number: "</string>
+    <string name="blacklisted_two_dots">"Blacklisted: "</string>
+    <string name="expires_on_two_dots">"Expires on: "</string>
+    <string name="subcription_two_dots">"Subscription: "</string>
+    <string name="cards">Cards</string>
+    <string name="agents">Agents</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="stops">Stops</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="logs">Logs</string>
+    <string name="admin">Admin</string>
+    <string name="databases">Databases</string>
+    <string name="blacklisted">Blacklisted</string>
+    <string name="valid">Valid</string>
+    <string name="expired">Expired</string>
+    <string name="invalid">Invalid</string>
+    <string name="fullname_two_dots">"Full Name: "</string>
+    <string name="report">Report</string>
+    <string name="send">Send</string>
+    <string name="reported">Reported Successfully!</string>
+    <string name="notreported">Reported Not Sent!</string>
+    <string name="report_title">Report Title</string>
+    <string name="returnn">Return</string>
+    <string name="delete">Delete</string>
+    <string name="from">From</string>
+    <string name="report_message">Report Message</string>
+    <string name="nodatasent" translatable="false">No Data Sent From Last Fragment!</string>
+    <string name="reports">Reports</string>
+    <string name="reportsdatabase">Reports Database</string>
+    <string name="from_two_dots">"From: "</string>
+    <string name="report_deleted">Report Deleted!</string>
+    <string name="card">Card</string>
+    <string name="map">Locate</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="english" translatable="false">English</string>
+    <string name="arabic" translatable="false">العربية</string>
+    <string name="french" translatable="false">Français</string>
+    <string name="nulldates" translatable="false">Null Dates</string>
+    <string name="wrong_date_format" translatable="false">Wrong Date Format</string>
+    <string name="agent_tw_dots">"Agent: "</string>
+    <string name="card_tw_dots">"Card: "</string>
+    <string name="vehicle_tw_dots">"Vehicle: "</string>
+    <string name="stop_tw_dots">"Stop: "</string>
+    <string name="destination_tw_dots">"Destination: "</string>
+    <string name="action_tw_dots">"Action: "</string>
+    <string name="reportEmpty">Report Title Or Message is Empty!</string>
+    <string name="nfcunavailable" translatable="false">NFC Deactivated or unsupported!</string>
+    <string name="copyrighthadj" translatable="false">Hadj Hadji dino.elhaj@gmail.com</string>
+</resources>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="automotive_1024p_landscape" />
+        <device id="tv_1080p" />
+        <device id="wear_square" />
+        <device id="Nexus 7 2013" />
+        <device id="pixel_3_xl" />
+        <device id="pixel_xl" />
+        <device id="pixel_3" />
+        <device id="Nexus 5X" />
+        <pickBest>false</pickBest>
+        <target>android-28</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ba0d367-445a-400b-b8ae-12c641d7245c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\keys\setram.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d2x6n2h5YxBfqbgLQB1tck89hg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ApkExportedModule" value="SETRAM.app" />
+    <property name="BundleExportedModule" value="SETRAM.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="xgcuqw9tdediyxus" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-04T10:51:35.283Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\dinoe\AndroidStudioProjects\SETRAM\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-445242814">
+      <recent name="dz.setram.control" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dz.setram.control" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dinoe\AndroidStudioProjects\SETRAM\app\src\main\res\drawable" />
+      <recent name="C:\Users\dinoe\AndroidStudioProjects\SETRAM\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\dinoe\AndroidStudioProjects\SETRAM\app\src\main\res\mipmap-xhdpi" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="dz.setram.control" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dinoe\AndroidStudioProjects\SETRAM\app\src\main\res\drawable" />
+      <recent name="C:\Users\dinoe\AndroidStudioProjects\SETRAM\app\src\main\res\mipmap-xxhdpi" />
+      <recent name="C:\Users\dinoe\AndroidStudioProjects\SETRAM\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\dinoe\AndroidStudioProjects\SETRAM\app\src\main\res\mipmap-xhdpi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="TramwayTransportApp.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ba0d367-445a-400b-b8ae-12c641d7245c" name="Default Changelist" comment="" />
+      <created>1591636815952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591636815952</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added SQLite DB">
+      <created>1593103898366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593103898366</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added SQLite DB">
+      <created>1593104262902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593104262902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added SQLite DB">
+      <created>1593110492219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593110492219</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added SQLite DB">
+      <created>1593130555698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593130555699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added SQLite DB">
+      <created>1593131842090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593131842090</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added SQLite DB">
+      <created>1593132058357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593132058357</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added SQLite DB">
+      <created>1593194865713</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593194865713</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated">
+      <created>1593269288586</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593269288587</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated">
+      <created>1593276375064</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593276375064</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated">
+      <created>1593292162979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593292162979</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated">
+      <created>1594511236934</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594511236934</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated">
+      <created>1595339476761</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1595339476762</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated">
+      <created>1595351027452</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1595351027452</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated">
+      <created>1595558110174</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1595558110174</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated">
+      <created>1595592344678</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1595592344678</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated">
+      <created>1595593973399</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1595593973399</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated">
+      <created>1595701656900</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1595701656900</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Updated">
+      <created>1595767642951</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1595767642951</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated">
+      <created>1599562943126</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1599562943127</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated">
+      <created>1599604732919</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1599604732919</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Updated">
+      <created>1599658992903</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1599658992903</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Updated">
+      <created>1599680427739</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1599680427739</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Updated">
+      <created>1599761420860</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1599761420860</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Updated">
+      <created>1599763184862</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1599763184862</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updated">
+      <created>1599766587171</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1599766587171</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Updated">
+      <created>1599824583929</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1599824583929</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Updated">
+      <created>1599840283657</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1599840283657</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Updated">
+      <created>1599841288136</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1599841288136</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Updated">
+      <created>1600211984556</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1600211984556</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Updated">
+      <created>1608660062345</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1608660062345</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Updated">
+      <created>1608802517180</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1608802517180</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Updated">
+      <created>1608824629777</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1608824629778</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Added SQLite DB" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="130" key="#PSD" timestamp="1608661143986">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="200" y="130" key="#PSD/0.0.1366.768@0.0.1366.768" timestamp="1608661143986" />
+    <state x="119" y="246" key="AndroidCreateXmlResourceDialog" timestamp="1608546149464">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="119" y="246" key="AndroidCreateXmlResourceDialog/0.0.1366.768@0.0.1366.768" timestamp="1608546149464" />
+    <state x="167" y="346" key="AndroidCreateXmlResourceDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600209741263" />
+    <state x="337" y="0" width="745" height="634" key="CommitChangelistDialog2" timestamp="1608824610401">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="337" y="0" width="745" height="634" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1608824610401" />
+    <state x="474" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1600211980468" />
+    <state x="405" y="143" key="FileChooserDialogImpl" timestamp="1608803430494">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="405" y="143" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1608803430494" />
+    <state x="569" y="201" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602357352694" />
+    <state x="658" y="307" key="Github.ShareDialog" timestamp="1608824164362">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="658" y="307" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1608824164362" />
+    <state x="1310" y="436" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602341370003" />
+    <state x="349" y="82" key="Github.UntrackedFilesDialog" timestamp="1608824173194">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="349" y="82" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1608824173194" />
+    <state width="1323" height="327" key="GridCell.Tab.0.bottom" timestamp="1601162014323">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601162014323" />
+    <state width="1877" height="518" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600347476422" />
+    <state width="1323" height="327" key="GridCell.Tab.0.center" timestamp="1601162014323">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601162014323" />
+    <state width="1877" height="518" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600347476422" />
+    <state width="1323" height="327" key="GridCell.Tab.0.left" timestamp="1601162014322">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601162014322" />
+    <state width="1877" height="518" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600347476422" />
+    <state width="1323" height="327" key="GridCell.Tab.0.right" timestamp="1601162014323">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601162014323" />
+    <state width="1877" height="518" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600347476422" />
+    <state x="184" y="28" key="SettingsEditor" timestamp="1608825215153">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1608825215153" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1608802528829">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1608802528829" />
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608546643864">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1608546643864" />
+    <state x="691" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600209588410">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1600209588410" />
+    <state x="378" y="174" key="run.anything.popup" timestamp="1600773740686">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="174" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1600773740686" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mr/elhadj/tramwaytransport/adminFragment.java</url>
+          <line>585</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mr/elhadj/tramwaytransport/adminFragment.java</url>
+          <line>1161</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mr/elhadj/tramwaytransport/adminFragment.java</url>
+          <line>1256</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mr/elhadj/tramwaytransport/cardFragment.java</url>
+          <line>249</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mr/elhadj/tramwaytransport/StopRecyclerViewAdapter.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mr/elhadj/tramwaytransport/DatabaseHelper.java</url>
+          <line>316</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mr/elhadj/tramwaytransport/adminFragment.java</url>
+          <line>1194</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mr/elhadj/tramwaytransport/adminFragment.java</url>
+          <line>107</line>
+          <properties class="mr.elhadj.tramwaytransport.adminFragment">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

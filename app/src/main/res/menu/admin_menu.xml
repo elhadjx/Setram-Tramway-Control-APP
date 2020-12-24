@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:title="@string/databases">
+        <menu>
+            <item android:id="@+id/menuItem_Cards"
+                android:icon="@drawable/ic_baseline_credit_card_24"
+                android:title="@string/cards"/>
+            <item android:id="@+id/menuItem_Agents"
+                android:icon="@drawable/ic_baseline_supervisor_account_24"
+                android:title="@string/agents" />
+            <item android:id="@+id/menuItem_Vehicles"
+                android:icon="@drawable/ic_baseline_tram_24"
+                android:title="@string/vehicles" />
+            <item  android:id="@+id/menuItem_Stops"
+                android:icon="@drawable/ic_baseline_location_on_24"
+                android:title="@string/stops" />
+            <item android:id="@+id/menuItem_Subscriptions"
+                android:icon="@drawable/ic_baseline_attach_money_24"
+                android:title="@string/subscriptions" />
+            <item android:id="@+id/menuItem_Logs"
+                android:icon="@drawable/ic_baseline_assessment_24"
+                android:title="@string/logs" />
+        </menu>
+    </item>
+    <item android:title="@string/admin">
+        <menu>
+
+            <item android:id="@+id/menuItem_Reports"
+                android:icon="@drawable/ic_baseline_report_problem_24"
+                android:title="@string/reports" />
+
+            <item android:id="@+id/menuItem_LogOut"
+                android:icon="@drawable/ic_baseline_power_settings_new_24"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+</menu>
