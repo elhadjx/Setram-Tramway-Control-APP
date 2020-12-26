@@ -7,3 +7,5 @@ Tramway passengers management app.
 * NFC
 * SQLite
 * and many more ( i'm not good at writing the README )
+# Donate
+Btc : 12P9EdSehboAP2371imwjeverskzzZKTnN
