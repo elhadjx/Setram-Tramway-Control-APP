@@ -1,5 +1,6 @@
 # TramwayTransportApp
 Native Android app for tramway transport POS devices to CRUD agents, stops, vehicles, subscriptions, cards. with reading card subscriptions using NFC technology.
+![alt text](https://i.imgur.com/SbojvGY.png)
 # Features
 * Admin Panel (CRUD agents, cards, stops, subscriptions...)
 * Agent Panel (Scan cards using NFC)
