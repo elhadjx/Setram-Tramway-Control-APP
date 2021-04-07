@@ -1,8 +1,8 @@
 # TramwayTransportApp
 Tramway passengers management app.
 # Features
-* Admin Panel
-* Agent Panel
+* Admin Panel (CRUD agents, cards, stops, subscriptions...)
+* Agent Panel (Scan cards using NFC)
 * Multilingual ( En - Ar - fr )
 * NFC
 * SQLite
