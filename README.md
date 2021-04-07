@@ -8,6 +8,5 @@ Native Android app for tramway transport POS devices to CRUD agents, stops, vehi
 * SQLite
 * and many more ( i'm not good at writing the README )
 # Donate
-BTC  ₿ : 12P9EdSehboAP2371imwjeverskzzZKTnN
-ETH  Ξ : 0x73662A1d1298E168f85C274886916F44b8D15fc3
- 
+* BTC  ₿ : 12P9EdSehboAP2371imwjeverskzzZKTnN
+* ETH  Ξ : 0x73662A1d1298E168f85C274886916F44b8D15fc3
